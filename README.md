@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @patricianaui
-- 👀 I’m currently a first year student studying Interactive Entertainment, major in Game Development.
-- 🌱 I’m currently learning game development in C.
+- 👀 I’m currently a first year student taking BS Interactive Entertainment, major in Game Development.
 - ⚡ My latest project is a text-based Monopoly game called "Manila!", written with C.
 
 <!---
